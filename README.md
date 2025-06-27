@@ -71,6 +71,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | Apache Jmeter                 | [comdotlinux/asdf-jmeter](https://github.com/comdotlinux/asdf-jmeter)                                             |
 | apko                          | [omissis/asdf-apko](https://github.com/omissis/asdf-apko)                                                         |
 | apollo-ios-cli                | [MacPaw/asdf-apollo-ios-cli](https://github.com/MacPaw/asdf-apollo-ios-cli)                                       |
+| aptos                         | [gregnazario/asdf-aptos](https://github.com/gregnazario/asdf-aptos)                                               |
 | Apollo Router                 | [safx/asdf-apollo-router](https://github.com/safx/asdf-apollo-router)                                             |
 | arc                           | [ORCID/asdf-arc](https://github.com/ORCID/asdf-arc)                                                               |
 | argc                          | [rgeraskin/asdf-argc](https://github.com/rgeraskin/asdf-argc)                                                     |
